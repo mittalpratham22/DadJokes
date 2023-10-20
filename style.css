@@ -1,0 +1,31 @@
+body{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    margin: auto;
+    position: absolute;
+    background-color: yellow;
+    bottom: 50%;
+    text-align: center;
+}
+h3{
+    margin-top: 0px;
+    background-color: greenyellow;
+    margin: auto;
+}
+.joke{
+    margin-bottom: 50%;
+    margin-top: 50%;
+    margin: auto;
+}
+.btn{
+    background-color: white;
+    color: blue;
+}
+.btn:hover{
+    background-color: blue;
+    color: white;
+}
